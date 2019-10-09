@@ -1,6 +1,6 @@
 <?php
 
-        // Print out main menu..
+        // Ikutin bodoh.
 
     echo "=======================\n";
 
